@@ -24,7 +24,7 @@ The DCF model forecasts future financial performance and calculates an estimated
 -  Tax rate
 -  WACC / discount rate
 -  Terminal growth rate
-Sensitivity analysis his included to evaluate how changes in key assumptions affect the estimated valuation.
+Sensitivity analysis is included to evaluate how changes in key assumptions affect the estimated valuation.
 ## Tools
 - Microsoft Excel
 - Financial modeling
