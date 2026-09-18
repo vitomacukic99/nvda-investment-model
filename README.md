@@ -4,7 +4,7 @@ A fundamental investment analysis of NVIDIA Corporation (NVDA) developed in Micr
 ## Analysis Included
 - Historical financial performance
 - Earnings per share (EPS) analysis
-- Price-to-Earnings (P/E) analysis
+- Price to Earnings (P/E) analysis
 - Sales per share
 - Dividend Discount Model (DDM)
 - Discounted Cash Flow (DCF) valuation
